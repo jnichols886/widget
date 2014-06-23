@@ -1,0 +1,17 @@
+*.zip
+*.psd
+*.js~
+*.md~
+*.json~
+*.html~
+*.ejs~
+*.css~
+*.docx
+Procfile~
+secrets.json
+*~
+*.gitignore~
+*.secret
+node_modules/
+build/
+
